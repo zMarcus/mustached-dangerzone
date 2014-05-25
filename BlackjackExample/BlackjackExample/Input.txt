@@ -1,0 +1,6 @@
+Andy	15
+Bob		17
+Cathy	16
+David	17
+Edward	16
+Freda	14
